@@ -1,0 +1,30 @@
+.tamaño{
+    width: auto;
+    height: 3000px;
+    background-color: black;
+}
+
+.centrar{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+.letra1{
+    color: azure;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.video{
+    padding: 100px;
+}
+.texto1{
+    width: 70%;
+}
+.fondo1{
+    background-color: rgb(0, 0, 0);
+}
+.blanca{
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
